@@ -3,7 +3,7 @@
 
 #### The date format for this log is MM-DD-YYYY
 
-05/14/2021 - Successfully looped through the ArrayList and the HashMap objects to be able to print the data from the CSV. Here is my code: 
+__05/14/2021__ - Successfully looped through the ArrayList and the HashMap objects to be able to print the data from the CSV. Here is my code: 
 ```    
    private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
         // Check if any jobs are in somejobs
@@ -26,8 +26,8 @@
     }
 ```
 
-05/13/2021 - Learned how to declare variables so that setters and getters can work to properly be able to instantiate the class. Instantiated a student in the Student class with my name, the number of credits and GPA.
+__05/13/2021__ - Learned how to declare variables so that setters and getters can work to properly be able to instantiate the class. Instantiated a student in the Student class with my name, the number of credits and GPA.
 
-05/12/2021 - Spent today learning about Java Arraylists that store HashMap objects which have a String of keys and a String of values. I am not quite printing the correct thing to the console yet. 
+__05/12/2021__ - Spent today learning about Java Arraylists that store HashMap objects which have a String of keys and a String of values. I am not quite printing the correct thing to the console yet. 
 
-05/11/2021 - This is my very first entry to the Dev-Diary.
+__05/11/2021__ - This is my very first entry to the Dev-Diary.
