@@ -4,7 +4,8 @@
 #### The date format for this log is MM-DD-YYYY
 
 05/14/2021 - Successfully looped through the ArrayList and the HashMap objects to be able to print the data from the CSV. Here is my code: 
-```    private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
+```    
+   private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
         // Check if any jobs are in somejobs
         if (someJobs.size() > 0) {
             //Using a loop to iterate over Array of HashMap Objects (Jobs)
