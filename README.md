@@ -5,8 +5,6 @@
 
 05/14/2021 - Successfully looped through the ArrayList and the HashMap objects to be able to print the data from the CSV. Here is my code: 
 ```    private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
-//        System.out.println("printJobs is not implemented yet");
-
         // Check if any jobs are in somejobs
         if (someJobs.size() > 0) {
             //Using a loop to iterate over Array of HashMap Objects (Jobs)
@@ -24,7 +22,8 @@
             // Use print instead of println so that a new line is not printed after No Results to match the test output
             System.out.print("No Results");
         }
-    }```
+    }
+```
 
 05/13/2021 - Learned how to declare variables so that setters and getters can work to properly be able to instantiate the class. Instantiated a student in the Student class with my name, the number of credits and GPA.
 
