@@ -20,7 +20,7 @@
         }
         // Else if no jobs print "No Results"
         else {
-            // Use print instead of println so that a new line is not printed after No Results to match the test output
+            // Use print instead of println so an extra line is not created below the print
             System.out.print("No Results");
         }
     }
