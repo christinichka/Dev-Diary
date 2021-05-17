@@ -3,6 +3,8 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+__05/17/2021__ - Worked on creating a Restaurant package in Java with two classes of Menu and MenuItem. Found a diagram website to help me visualize how I might construct the classes. https://app.diagrams.net/
+
 __05/14/2021__ - Successfully looped through the ArrayList and the HashMap objects to be able to print the data from the CSV. Here is my code: 
 ```java    
    private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
