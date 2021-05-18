@@ -14,7 +14,7 @@ Review day - spent some time watching some videos about Java topics and making s
 
 
 __05/17/2021__ 
-Worked on creating a Restaurant package in Java with two classes of Menu and MenuItem. Found a diagram website to help me visualize how I might construct the classes. https://app.diagrams.net/
+Worked on creating a Restaurant package in Java with two classes of Menu and MenuItem. Found a diagram website to help me visualize how I might construct the classes. [https://app.diagrams.net/](url)
 
 
 __05/14/2021__ 
