@@ -12,8 +12,10 @@ Review day - spent some time watching some videos about Java topics and making s
 - Within Classes variables are things it KNOWS, methods are things it DOES.
 - Methods do one specific task.
 
+
 __05/17/2021__ 
 Worked on creating a Restaurant package in Java with two classes of Menu and MenuItem. Found a diagram website to help me visualize how I might construct the classes. https://app.diagrams.net/
+
 
 __05/14/2021__ 
 Successfully looped through the ArrayList and the HashMap objects to be able to print the data from the CSV. Here is my code: 
@@ -39,11 +41,14 @@ Successfully looped through the ArrayList and the HashMap objects to be able to 
     }
 ```
 
+
 __05/13/2021__ 
 Learned how to declare variables so that setters and getters can work to properly be able to instantiate the class. Instantiated a student in the Student class with my name, the number of credits and GPA.
 
+
 __05/12/2021__ 
 Spent today learning about Java Arraylists that store HashMap objects which have a String of keys and a String of values. I am not quite printing the correct thing to the console yet. 
+
 
 __05/11/2021__ 
 This is my very first entry to the Dev-Diary.
