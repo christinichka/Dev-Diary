@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+__05/19/2021__
+Read the chapter and took notes about Unit testing with Java JUnit. Practiced writing tests using @Test, @Before, @After and Assertion Methods. 
+
 __5/18/2021__
 Review day - spent some time watching some videos about Java topics and making sure I understand before moving forward. Here are a few of my notes:
 - The power of back slash to print double quotations, tab, new line, etc. \"\"\\ Will allow double quotations to print
