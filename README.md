@@ -3,13 +3,16 @@
 
 #### The date format for this log is MM-DD-YYYY
 
-__5/20/2021__
+__05/21/2021__
+Hands on with Java Unit Testing (Junit) in Intellij. Made unit tests to test if the code outputs balanced square brackets or not. I used the TDD method I learned last unit while testing with JavaScript, and made tests then built my code to make it pass. So far this testing seemed a lot easier than the JavaScript testing, but I am just learning the basics. I chose to mostly use AssertTrue and AssertFalse for these tests as they seemed like a good fit of judging if the square brackets were there and matching pairs, or not.
+
+__05/20/2021__
 Completed restaurant menu studio that had been challenging me. I made methods to print the menu, print individual menu items, add menu items, remove menu items. Manipulating Arraylist and using methods to call objects from the Arraylist does not come naturally to me, so I have to reference notes and Google. But I am slowly making headway in my understanding and ability.
 
 __05/19/2021__
 Read the chapter and took notes about Unit testing with Java JUnit. Practiced writing tests using @Test, @Before, @After and Assertion Methods. 
 
-__5/18/2021__
+__05/18/2021__
 Review day - spent some time watching some videos about Java topics and making sure I understand before moving forward. Here are a few of my notes:
 - The power of back slash to print double quotations, tab, new line, etc. \"\"\\ Will allow double quotations to print
 - Difference between float and double types. They are similiar in that they return a number with a decimal value. The exception is that float has a maxmimum length, whereas double can take an unlimited amount of digits.
