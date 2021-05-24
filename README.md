@@ -3,6 +3,20 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+__05/24/2021__
+I have not been able to smoothly figure out how to add a new Java project from IntelliJ to an existing GitHub Repository so today was the day I thought I'd take time to work through it. I initially struggled. I kept getting an error that said "error: failed to push some refs to 'GITHUB URL'." Basically my repo only had a ReadMe file and my local file had the project files including the package and classes. Since the two had unrelated files it was not liking me wanting to push to that repo. These are the steps I took to rememdy the issue (thanks to Stack Overflow and my ability to combine multiple answers):
+
+**********
+1. git init -b main to initialize an empty Git repository in the local project on my computer
+2. git remote add origin GITHUB REPO URL
+3. git pull origin main --allow-unrelated-histories to allow for the local files to be added to the repo despite unrelated files.
+4. git push --set-upstream origin main
+5. git add . to add all of the files since none of them had previously been commited
+6. git status to check that the files were added into the staging area
+7. git commit -m "Commit message" to git ready to push to the repo
+8. git push  
+**********
+
 __05/21/2021__
 Hands on with Java Unit Testing (Junit) in Intellij. Made unit tests to test if the code outputs balanced square brackets or not. I used the TDD method I learned last unit while testing with JavaScript, and made tests then built my code to make it pass. So far this testing seemed a lot easier than the JavaScript testing, but I am just learning the basics. I chose to mostly use AssertTrue and AssertFalse for these tests as they seemed like a good fit of judging if the square brackets were there and matching pairs, or not.
 
