@@ -3,6 +3,16 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+__05/25/2021__
+Polymorphisms today. Spent some time on an exercise that utilized two Comparator classes. This exercise simulated an ice cream shop and the Comparator classes helped to sort the flavors and cones arrayLists. I got stuck when it came to printing the sorted data to the console. I did a lot of Googling, reading documentation and examples. I found this website with an example that looked like it would work with my Main class: [https://www.geeksforgeeks.org/comparator-interface-java/ ](url)
+Here is what I came up with for printing the sorted flavors (sorted by their name per the FlavorComparator class): 
+```java
+flavors.sort(new FlavorComparator());
+System.out.println("\nFlavors");
+for (int i = 0; i < flavors.size(); i++)
+    System.out.println(flavors.get(i));
+ ```
+
 __05/24/2021__
 I have not been able to smoothly figure out how to add a new Java project from IntelliJ to an existing GitHub Repository so today was the day I thought I'd take time to work through it. I initially struggled. I kept getting an error that said "error: failed to push some refs to 'GITHUB URL'." Basically my repo only had a ReadMe file and my local file had the project files including the package and classes. Since the two had unrelated files it was not liking me wanting to push to that repo. These are the steps I took to rememdy the issue (thanks to Stack Overflow and my ability to combine multiple answers):
 
