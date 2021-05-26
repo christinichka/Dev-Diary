@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+__05/26/2021__
+I wanted to get another perspective on inheritance and polymorphism so I read and completed the exercises in my Head First Java book. Did a lot of tree mapping. Something to remember __Lowest on the inheritance tree WINS!___
+
 __05/25/2021__
 Polymorphisms today. Spent some time on an exercise that utilized two Comparator classes. This exercise simulated an ice cream shop and the Comparator classes helped to sort the flavors and cones arrayLists. I got stuck when it came to printing the sorted data to the console. I did a lot of Googling, reading documentation and examples. <br>I found this website with an example that looked like it would work with my Main class:<br> [https://www.geeksforgeeks.org/comparator-interface-java/ ](url)<br>
 Here is what I came up with for printing the sorted flavors (sorted by their name per the FlavorComparator class): 
