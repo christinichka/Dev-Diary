@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+__06/01/2021__ 
+Missed a few days of logging but I did code on 5/27, 5/28 and 5/31. I have been working on graded Assignment #2 for Unit 2 of LC101 LaunchCode Bootcamp. It's titled "Tech Jobs Object-Oriented Edition". I also feel like Java has not come as naturally to me as JavaScript and Python so I have been spending a lot of extra time re-reading, studying material to make sure I am understanding the process to apply to my assignment. Today I am working on TDD (Test Driven Development) my tests are to test if the field is empty, if the string contains correct labels for each field, that each field starts and ends with a blank space, that the equals method works, etc. I write the test then fix the code in my program to run accordingly. It is tedious at times, but helps catch any holes. I am less intimidated by TDD than I was when I first learned it in Unit 1 so that is a welcome thing.
+
 __05/26/2021__
 I wanted to get another perspective on inheritance and polymorphism so I read and completed the exercises in my Head First Java book. Did a lot of tree mapping. Something to remember __Lowest on the inheritance tree WINS!__
 
