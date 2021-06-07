@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/07/2021__<br>
+Learned more about Thymeleaf and adding Bootstrap today. I finished up Chapter 11 reading and my was able to get my code to work with the walk through even though I hit some hiccups. I also created an issue with one of my github repos by merging when I should not have. Happy to say I successfully fixed the issue with a little Googling and a lot of deep breathing! <br>This current curriculum of Spring, Thymeleaf, Bootstrap is a little overwhelming for me today. I think it is so cool what we can accomplish and I so want it to to work! But I am feeling lost with all of these different files to work between. It's hard to know how to call everything so it appears on the screen. I have had some experience with Bootstrap a long time ago. But where I seem to be struggling is within the Spring/Thymeleaf part. I struggle to know what to put in the controller file versus the html template files and calling the fragments from the fragments.html. I feel like I hardly made headway today on my exercises. It doesn't help that the instructions are outdated and vague. Imposter syndrome is hitting me hard this afternoon. I am so commited to becoming a developer, and fear of failure gets amplified in times like these. I will not give up. Just trying to be real. Off to do a power pose, stretch and hydrate! This too will pass. 
+
 <br>__06/04/2021__<br>
 My theory proved true: some time off did help! First thing this morning I got to work on the form with the drop downs and got it to work within the hour. I had one action labeled incorrectly. I was able to fix that, and also clean up the code and it worked great thereafter. The remainder of the day I spent coding another form with drop down menus titled skills-tracker (see associated repo). It was a little more intensive than the first, but I was successful after that initial struggle. 
 <br>__CHALLENGES = GROWTH OPPORTUNITIES!__<br> 
