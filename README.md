@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/09/2021__<br>
+I had to psych myself up today before starting my coursework after the struggle on the 7th. Somedays just hit me harder. Finally convinced myself I can do this! And guess what? I figured out how to call the information from the form to make it appear on the screen. What I was missing was the model.addAttribute("name", name);, etc. for the different form items and that made all of the difference.
+
 <br>__06/08/2021__<br>
 Today I worked on my portfolio website. I have to figure out how to deploy some of my projects (particularly those made with Python). I also need to decide if I want to use screenshots, gifs, or some other means as a thumbnail to link to the projects. Additionally I learned that you can beautify your GitHub profile! See this article to learn more! [https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme](url) I spent part of the day working on beautifying my GitHub profile. I added images for each of the languages, databases, frameworks, IDE's, etc. I've worked with. I also added my social media links as well as some GitHub stats widgets. It's looking a lot more fun than it did yesterday! I spent some time with Eloquent JavaScript as well. I needed a break from bootcamp material for the day, but am looking forward to tackling again it tomorrow!
 
