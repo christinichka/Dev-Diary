@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/10/2021__<br>
+Today I feel like I am breaking through some barriers! I was able to complete the rest of graded Assignment #3 and pass all of the autograder tests. Woohoo!! I was struggling with an issue last night where I could not get the data I wanted to pass into one column to show up there. Instead, it was replacing data in the column next to it. Frustrating. I tried moving things around, calling it in other places, etc. No luck. So this morning I tinkered with it a bit more, then asked for suggestions from my peers. One peer asked me if I had removed or commented out a <td></td> since I had opted to use the first of two choices for accomplishing the task and the second choice would have used the td. I commented that out. Voila everything loaded where it needed to. Such a simple fix. I am very grateful to peers for helping me when they are able. The rest of the assignment today went smoothly. That isn't to say that I didn't have a challenge but I finally feel like I am able to navigate through packages, controllers, etc. I got the green check on GitHub classroom and I feel like I am on cloud 9. I needed this win this week.
+
 <br>__06/09/2021__<br>
 I had to psych myself up today before starting my coursework after the struggle on the 7th. Somedays just hit me harder. Finally convinced myself I can do this! And guess what? I figured out how to call the information from the form to make it appear on the screen. What I was missing was the model.addAttribute("name", name);, etc. for the different form items and that made all of the difference.
 
