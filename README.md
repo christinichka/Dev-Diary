@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/11/2021__<br>
+I spent some time practicing JavaScript, hosting some of my previous projects on github.io and also reading about models in Spring. Also was able to help two classmates at separates points in the day to debug their Assignment #3. It felt good to be able to pinpoint some issues to help them get past their blocks. 
+
 <br>__06/10/2021__<br>
 Today I feel like I am breaking through some barriers! I was able to complete the rest of graded Assignment #3 and pass all of the autograder tests. Woohoo!! I was struggling with an issue last night where I could not get the data I wanted to pass into one column to show up there. Instead, it was replacing data in the column next to it. Frustrating. I tried moving things around, calling it in other places, etc. No luck. So this morning I tinkered with it a bit more, then asked for suggestions from my peers. One peer asked me if I had removed or commented out a <td></td> since I had opted to use the first of two choices for accomplishing the task and the second choice would have used the td. I commented that out. Voila everything loaded where it needed to. Such a simple fix. I am very grateful to peers for helping me when they are able. The rest of the assignment today went smoothly. That isn't to say that I didn't have a challenge but I finally feel like I am able to navigate through packages, controllers, etc. I got the green check on GitHub classroom and I feel like I am on cloud 9. I needed this win this week.
 
