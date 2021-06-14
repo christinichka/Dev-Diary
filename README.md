@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/14/2021__<br>
+Today I am working through models, model-binding, and model validation. I did the exercise to add an edit feature to an event list where users could create an event, see all created events, and now edit individual events if the details changed. I'm also working on creating a sign-in feature on the spa-day app at the user-signup-starter-branch. It is not quite rendering yet, but it's on it's way. I'm feeling excited to learn how to validate the information within Java/Spring.
+
 <br>__06/11/2021__<br>
 I spent some time practicing JavaScript, hosting some of my previous projects on github.io and also reading about models in Spring. Also was able to help two classmates at separates points in the day to debug their Assignment #3. It felt good to be able to pinpoint some issues to help them get past their blocks. 
 
