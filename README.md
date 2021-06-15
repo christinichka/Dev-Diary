@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/15/2021__<br>
+Model validation and enums were the topics for today's studies. I learned that model validation rules (this is where annotations come in handy), while controller checks validation rules when the data is submitted to the server then takes appropriate action when validation fails.  
+
 <br>__06/14/2021__<br>
 Today I am working through models, model-binding, and model validation. I did the exercise to add an edit feature to an event list where users could create an event, see all created events, and now edit individual events if the details changed. I'm also working on creating a sign-in feature on the spa-day app at the user-signup-starter-branch. It is not quite rendering yet, but it's on it's way. I'm feeling excited to learn how to validate the information within Java/Spring.
 
