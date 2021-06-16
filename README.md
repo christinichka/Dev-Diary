@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/16/2021__<br>
+Introduction to SQL more specifically MySQL Workbench today. I learned about different types of joining, creating, reading, updating, and deleting tables. I had had a small experience with SQL previous to this so it wasn't too foreign. It was a nice change of pace to think about database. I am looking forward to joining database technology with framework. I am getting excited to join all of this together into a project.
+
 <br>__06/15/2021__<br>
 Model validation and enums were the topics for today's studies. I learned that model validation rules (this is where annotations come in handy), while controller checks validation rules when the data is submitted to the server then takes appropriate action when validation fails.  
 
