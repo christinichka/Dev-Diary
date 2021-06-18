@@ -3,6 +3,13 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/18/2021__<br>
+I talked with a peer this morning about MySQL. She has experience with SQL and explained that I can use one new query to write all of my queries in and once they are run I don't need to save them. She is also going to show me how to run MySQL through the command line instead of the GUI. Apparently some DBA people like the GUI and some like using the command line. I am open to either. Our course has us do it in the GUI but I think the simplicity of the command line appeals to me. We will meet tomorrow at 10am to go over how to accomplish that. I wonder which camp I will be in? Lucky to have her around to show me the ropes. Today went smoother. I read ahead into the next week material and it explained a lof of the things that I was confused about for this week's exercise and studio. 
+
+<br>__06/17/2021__<br>
+I'm a bit confused on whether to use new queries for each new query. I also am not sure if I need to save everything I run in MySQL. I am working my way through the Studio for this week. I feel like it's a little stop and go. 
+<br>In other news - I am joining the Leadership team for my local Women Who Code chapter. I am going to be a Network Evangilist. I am super excited to volunteer with Women Who Code St. Louis. I am super passionate about women in the tech field. I am looking forward to helping our chapter grow and be a place of robust support to all who engage with it. I will meet with one of the Directors, Nicki on Monday to find out more about my duties in this role.
+
 <br>__06/16/2021__<br>
 Introduction to SQL more specifically MySQL Workbench today. I learned about different types of joining, creating, reading, updating, and deleting tables. I had had a small experience with SQL previous to this so it wasn't too foreign. It was a nice change of pace to think about database. I am looking forward to joining database technology with framework. I am getting excited to join all of this together into a project.
 
