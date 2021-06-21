@@ -3,6 +3,21 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/21/2021__<br>
+This morning I finished the studio I started on Saturday. The last problem of the studio definitely made me think. I ended up mapping out what I needed to pull on a piece of paper. Something about writing things down helps me to tease out the details. I needed to print the first and last name of the patron as well as the genre of the book for each book that was checked out. Easier said than done. I needed to pull information from 4 different tables in order to achieve this. I started by first using select statements to pull the information separately. Then once I had that information I looked at how I could join the tables in order for the data to flow the way that was anticipated. Here is what I came up with:
+```MySQL
+SELECT patron.first_name, patron.last_name, genre.genres
+FROM patron JOIN loan
+ON patron.loan_id = loan.loan_id
+JOIN book ON book.book_id = loan.book_id
+JOIN genre ON genre.genre_id = book.genre_id
+WHERE book.available = 0;
+```
+As you can see, first I grabbed the name columns from the patron table, and also the genres column from the genre table. Next I needed to join the patron and loan tables so I did that by joining their loan_ids. Then I joined the book and loan tables at the book_id. Then I joined genre and book tables at genre_id. Finally, I specified that I only wanted books that were checked out so I needed any 0 values within the available column within the book table. Available is a bool so 1 represents true, meaning it is available and 0 represents false, meaning it is checked out or otherwise unavailable.
+
+<br>__06/19/2021__<br>
+My peer walked myself and a few other study buddies thru how to do MySQL through the command line. I like that you can print the tables and go back to reference them in the command line. When I use the gui the tables show until I run something else. But the gui is nice for a beginner to think through the process. I went back and forth between the command line and gui for the studio I was working on and I'm starting to find my groove.
+
 <br>__06/18/2021__<br>
 I talked with a peer this morning about MySQL. She has experience with SQL and explained that I can use one new query to write all of my queries in and once they are run I don't need to save them. She is also going to show me how to run MySQL through the command line instead of the GUI. Apparently some DBA people like the GUI and some like using the command line. I am open to either. Our course has us do it in the GUI but I think the simplicity of the command line appeals to me. We will meet tomorrow at 10am to go over how to accomplish that. I wonder which camp I will be in? Lucky to have her around to show me the ropes. Today went smoother. I read ahead into the next week material and it explained a lof of the things that I was confused about for this week's exercise and studio. 
 
