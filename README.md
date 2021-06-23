@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/23/2021__<br>
+Borrowing a laptop yesterday through tomorrow and it's throwing me off of my game. I can't install all of the necessary programs (IntelliJ, MySQL, Java, etc.) Yesterday I did not do much coding but worked on plans to be more ready for applying for jobs (portfolio, blog, github, linkedin, etc.) Today I've been reading Eloquent JavaScript, capturing screenshots of various projects to add to my portfolio site, looking over GitHub. I do need to clean things up a bit around here, and polish it so that I can put my best foot forward when interviewing. I plan to update my readme files in my repositories to better explain the projects, mention technologies and techniques implemented as well. I also want to add screenshots to my github readmes so it is easy for potential employers to see what the project looks like before it is deployed. I'm missing my bootcamp curriculum work but I'll be ready to throw myself back into first chance I get. Funny, Java has grown on me! Greatest feeling!
+
 <br>__06/21/2021__<br>
 This morning I finished the studio I started on Saturday. The last problem of the studio definitely made me think. I ended up mapping out what I needed to pull on a piece of paper. Something about writing things down helps me to tease out the details. I needed to print the first and last name of the patron as well as the genre of the book for each book that was checked out. Easier said than done. I needed to pull information from 4 different tables in order to achieve this. I started by first using select statements to pull the information separately. Then once I had that information I looked at how I could join the tables in order for the data to flow the way that was anticipated. Here is what I came up with:
 ```MySQL
