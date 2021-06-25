@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/25/2021__<br>
+Remember how I couldn't figure out why the links weren't showing up. I had an ah ha moment last night at my son's Jazz recital - fragments! I forgot to add links in the fragments template! So this morning I opened it up, linked appropriately and voila - it works! I also completed the Chapter 17 studio which was to create an AbstractEntity class and then extend the Event and EventCategory classes. It went a lot smoother than I expected. On the docket for today is accepting grading Assignment 4 and reading through the requirements. I still have two weeks of course work to complete, but I'd like to be referencing the assignment and completing it as I go, if possible. Wish me luck! <br><br> I graduate LC101 July 19 but I will proably be done with my course work before then. <br><br>Next up? Finding a job! I am super excited to finally be realizing my dreams! __LiftOff__ which is LaunchCode's career readiness track starts August 2, I'll be participating in that while I apply to and interview for jobs. <br><br> <h3>Wish me double luck!
+
 <br>__06/24/2021__<br>
 Almost completed Chapter 17 exercises. I was able to get the All categories and Create categories to render but the links to get there aren't rendering yet. I looked around quite a bit and have not figured out how to get them to show up. I will have a go at it again tomorrow. Feels good to almost have the exercises complete.
 
