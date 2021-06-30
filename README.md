@@ -3,6 +3,13 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/29/2021__<br>
+I have been working more on Unit 2 Graded Assignment 4 again today. I made it through most of part 3 but somehow I am not passing the data in properly. I keep getting an error saying "MappingException: Could not determine type for: java.util.List, at table: job, for columns: [org.hibernate.mapping.Column(skills)]" I have been trying to figure out where I need to change the code. I know I am close, but I am little stuck. So I'm going to sleep on it. 
+
+<br>__06/28/2021__<br>
+I officially became one of the Evangelists for the St. Louis chapter of Women Who Code. I will be helping to run/maintain the Twitter and LinkedIn accounts for the chapter. I am excited to volunteer with a program that has such a beautiful mission.<br>
+I began working on Graded Assignment 4 and made it through the first two sections smoothly. I am understanding and enjoying Java more than ever. It is interesting working with respositories, crud, controllers, etc. This project we are also integrating MySQL into which has been fun to see it sync up. 
+
 <br>__06/26/2021__<br>
 I read about and did exercises about relationships in object-relational mapping. This included one-to-one, one-to-many, many-to-one, and many-to-many relationships. I also used Hibernate to help keep track of the relationship within the database. I love using Java, Spring and have it connected to MySQL and how seamless it can be for the user.
 
