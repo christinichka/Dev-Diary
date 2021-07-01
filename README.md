@@ -1,5 +1,5 @@
 # Dev-Diary
-## This diary contains a daily log of what I have learned while coding. 
+## This diary contains a daily log of what I have learned while developing programs. 
 
 #### The date format for this log is MM-DD-YYYY
 
