@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__06/30/2021__<br>
+Today I spent some time learning about one-to-one and many-to-many relationships. I also learned about cascade with a one-to-one allows us to specify which ORM or database operations will flow from a class to its model. cascade = CascadeType.all makes sure that all databases will be passed. Additionally, I worked on Graded Assignment 4. I was able to fix the code so that it renders. Right now the form works with exception to adding a skill which gives me a Whitelabel Error Page, same with adding a job. I need to look a little more at those and see where I've gone wrong. I will take the page loading a sign I am on the right track. Just one test to pass for TestTaskThree and one for TestTaskFour then I will be done with all of the graded assignments for LC101. This assignment isn't due until July 19 but I like to stay ahead of the game and surpass deadlines when I am able.
+
 <br>__06/29/2021__<br>
 I have been working more on Unit 2 Graded Assignment 4 again today. I made it through most of part 3 but somehow I am not passing the data in properly. I keep getting an error saying "MappingException: Could not determine type for: java.util.List, at table: job, for columns: [org.hibernate.mapping.Column(skills)]" I have been trying to figure out where I need to change the code. I know I am close, but I am little stuck. So I'm going to sleep on it. 
 
