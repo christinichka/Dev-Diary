@@ -3,6 +3,11 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__07/01/2021__<br>
+TestTaskThree is passed and in the books. The fix for that test ended up being the need to add on a name to the JoinColumn annotation I was close, but added it without quotations and for some reason it didn't occur to me I might need them. I reached out to my peers after spending much time trying to figure out what the issue was with my code. One kind soul eluded to me needing what I had, or a version with quotation marks. Since I already had the first version, I added the quotes which looks like:
+```Java @JoinColumn(name="employer_id")``` <br><br>
+TestTaskFour has two failing tests. I know yesterday I thought I only had one left to pass but some tests were sneakily commented out by LaunchCode and needed to be commented in. Still progress! The project renders as expected and the user is able to add jobs, skills, and employers. The issue I have now is that I am supposed to invoke employerId.get() but it is coming up null and I'm not sure where to fix that. I've tried changing various fields in the Employer and Job classes as well as the HomeController to no avail. It'll probably be something super simple. Needless to say my brain is getting a nice work out today. 
+
 <br>__06/30/2021__<br>
 Today I spent some time learning about one-to-one and many-to-many relationships. I also learned about cascade with a one-to-one allows us to specify which ORM or database operations will flow from a class to its model. cascade = CascadeType.all makes sure that all databases will be passed. Additionally, I worked on Graded Assignment 4. I was able to fix the code so that it renders. Right now the form works with exception to adding a skill which gives me a Whitelabel Error Page, same with adding a job. I need to look a little more at those and see where I've gone wrong. I will take the page loading a sign I am on the right track. Just one test to pass for TestTaskThree and one for TestTaskFour then I will be done with all of the graded assignments for LC101. This assignment isn't due until July 19 but I like to stay ahead of the game and surpass deadlines when I am able.
 
