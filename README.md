@@ -8,7 +8,6 @@ TestTaskThree is passed and in the books. The fix for that test ended up being t
 ```Java 
 @JoinColumn(name="employer_id")
 ``` 
-<br><br>
 TestTaskFour has two failing tests. I know yesterday I thought I only had one left to pass but some tests were sneakily commented out by LaunchCode and needed to be commented in. Still progress! The project renders as expected and the user is able to add jobs, skills, and employers. The issue I have now is that I am supposed to invoke employerId.get() but it is coming up null and I'm not sure where to fix that. I've tried changing various fields in the Employer and Job classes as well as the HomeController to no avail. It'll probably be something super simple. Needless to say my brain is getting a nice work out today. 
 
 <br>__06/30/2021__<br>
