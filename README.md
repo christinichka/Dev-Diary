@@ -3,6 +3,11 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__07/02/2021__<br>
+I fixed one of the two failing tests and then got a whitelabel error when adding jobs. It was like one step forward and two steps back. I adjusted my code and went through trying to figure out why things were not passing correctly. I ended up realizing the redirect was "redirect:../" and it needed to be "redirect:./" one little period too much. Figures. Next I moved on to passing the final test of TestTaskFour which was the MySQL test. I had already written a query but it was not working. I went through with a fine fine tooth comb and changed the SELECT to be * (all) instead of naming the columns. I also changed the WHERE to specify the table.column I wanted rather than just passing in the column name. Those two tweaks allowed me to pull all of the columns from the skills table that had been assigned jobs.
+
+I used the terminal to commit my final graded assignment for Unit 2 of my LC101 Web Developer Bootcamp and got the coveted green check mark! Very exciting news. I have the last week of material to read and a studio to do. I feel confident that I will done with that within a few days. I am feeling very accomplished. This bootcamp journey has been humbling. I learned a lot while I was going the self-taught route (prior to the bootcamp), and in so many ways I was self-taught during the bootcamp but the bootcamp challenged me to stretch much more. I am so grateful for LaunchCode and their LC101 Bootcamp. Today was not without it's struggles. Today I was victorious!
+
 <br>__07/01/2021__<br>
 TestTaskThree is passed and in the books. The fix for that test ended up being the need to add on a name to the JoinColumn annotation I was close, but added it without quotations and for some reason it didn't occur to me I might need them. I reached out to my peers after spending much time trying to figure out what the issue was with my code. One kind soul eluded to me needing what I had, or a version with quotation marks. Since I already had the first version, I added the quotes which looks like:
 ```Java 
