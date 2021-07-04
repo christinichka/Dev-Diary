@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__07/03/2021__<br>
+I assisted two peers today in debugging their assignments. Neither have finished completely but some of the hints and questions I gave/asked helped them pass some of the tests. I like helping others because it helps me to dig in and think more about why I did what I did and what I could do differently. I also spent time working on my portfolio website. I am almost ready to purchase a domain and hosting. 
+
 <br>__07/02/2021__<br>
 I fixed one of the two failing tests and then got a whitelabel error when adding jobs. It was like one step forward and two steps back. I adjusted my code and went through trying to figure out why things were not passing correctly. I ended up realizing the redirect was "redirect:../" and it needed to be "redirect:./" one little period too much. Figures. Next I moved on to passing the final test of TestTaskFour which was the MySQL test. I had already written a query but it was not working. I went through with a fine fine tooth comb and changed the SELECT to be * (all) instead of naming the columns. I also changed the WHERE to specify the table.column I wanted rather than just passing in the column name. Those two tweaks allowed me to pull all of the columns from the skills table that had been assigned jobs.
 
