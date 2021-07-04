@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__07/04/2021__<br>
+Uploading final assingment (TechJobs-Persistent). I plan to finish up the portfolio site this week and also add more screenshots onto GitHub. Already thinking of ideas for more projects I can build for fun. 
+
 <br>__07/03/2021__<br>
 I assisted two peers today in debugging their assignments. Neither have finished completely but some of the hints and questions I gave/asked helped them pass some of the tests. I like helping others because it helps me to dig in and think more about why I did what I did and what I could do differently. I also spent time working on my portfolio website. I am almost ready to purchase a domain and hosting. 
 
