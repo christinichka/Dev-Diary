@@ -3,6 +3,12 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__07/06/2021__<br>
+Domain and web host shopping today. Spent time comparing some well known web hosting companies and picked a domain. One step closer to deploying my personal portfolio site. I still need to add a few more things, and then upload and connect the domain to the hosting and the files. I should have it up this week if all goes to plan. Also on the docket for today was unit 2, week 10 reading. The topics for week 10 are authentication, REST, field names, HTTP status codes, and more. 
+
+<br>__07/05/2021__<br>
+Added screenshots of a few projects to my portfolio site. Worked on navigation kinks and anchor tags.  Also added icons for the programming languages, IDEs, frameworks, etc. I am familiar with. 
+
 <br>__07/04/2021__<br>
 Uploading final assingment (TechJobs-Persistent). I plan to finish up the portfolio site this week and also add more screenshots onto GitHub. Already thinking of ideas for more projects I can build for fun. 
 
