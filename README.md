@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br> __07/12/2021__<br> 
+I missed a few days of logging on here. I have been helping some peers with bugs in their final assignment for the bootcamp. It has also helped me understand the code I wrote better. I do not want to simply give them the code I did. So helping them requires me to formulate questions to ask them to lead them toward the answer. It is fun to see their ah ha moments. I have also worked some on my portfolio site. It isn't as far along as I had hoped, but it is taking shape. I have also been brainstorming a project to make with Java and Spring Boot for fun. I am eyeing a couple of fun APIs, but also have ideas to compare supplment ingredients. The hardest thing is choosing which project to make first.
+
 <br>__07/08/2021__<br>
 I broke the navigation links the other day on my portfolio side so I spent some time fixing those, and arranging things on the page, deploying a few projects. I also read/learned about how to deploy Java with Spring projects since GitHub pages doesn't work seemlessly with these types of projects. I plan to take a stab at that in the near future. Possibly using Heroku combined with GitHub. I also spent some time today networking with a fellow LaunchCode grad. He was very generous with his time and information. I really appreciated it.
 
