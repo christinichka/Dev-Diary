@@ -4,7 +4,7 @@
 #### The date format for this log is MM-DD-YYYY
 
 <br>__07/14/2021__<br>
-Spent today finishing the screenshots and edits for my portfolio site. I also wrote detail pages and linked then up for my portfolio site. I also worked on figuring out how to host my project on my hosting plan. 
+Spent today finishing the screenshots and edits for my portfolio site. I also wrote detail pages and linked then up for my portfolio site. I also worked on figuring out how to host my project on my hosting plan. I have a site up! [christina-varghese.com](url) I still plan to make some changes and fix some things but I am happy it is up. 
 
 <br> __07/12/2021__<br> 
 I missed a few days of logging on here. I have been helping some peers with bugs in their final assignment for the bootcamp. It has also helped me understand the code I wrote better. I do not want to simply give them the code I did. So helping them requires me to formulate questions to ask them to lead them toward the answer. It is fun to see their ah ha moments. I have also worked some on my portfolio site. It isn't as far along as I had hoped, but it is taking shape. I have also been brainstorming a project to make with Java and Spring Boot for fun. I am eyeing a couple of fun APIs, but also have ideas to compare supplment ingredients. The hardest thing is choosing which project to make first.
