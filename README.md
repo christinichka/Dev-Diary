@@ -3,6 +3,49 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__07/15/2021__<br>
+Practiced Java leetcode today. I worked on FizzBuzz and reversing an array. Here is what I came up with:
+```Java
+import java.util.Arrays;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Run printFizzBuzz
+        printFizzBuzz(100);
+
+        // Run reverseArray
+        int[] numbers = new int[] {1, 2, 3, 4};
+        reverseArray(numbers);
+        System.out.println(Arrays.toString(numbers));
+
+    }
+
+    public static void printFizzBuzz(int N) {
+        for (int i = 1; i <= N; i++) {
+            if (i % 3 == 0 && i % 5 == 0) {
+                System.out.println("FizzBuzz");
+            } else if (i % 3 == 0) {
+                System.out.println("Fizz");
+            } else if (i % 5 == 0) {
+                System.out.println("Buzz");
+            } else {
+                System.out.println(i);
+            }
+        }
+    }
+
+        public static void reverseArray(int[] a) {
+            for (int i = 0; i < a.length / 2; i++) {
+                int temp = a[i];
+                a[i] = a[a.length - i - 1];
+                a[a.length - i - 1] = temp;
+            }
+    }
+}
+
+```
+
 <br>__07/14/2021__<br>
 Spent today finishing the screenshots and edits for my portfolio site. I also wrote detail pages and linked then up for my portfolio site. I also worked on figuring out how to host my project on my hosting plan. I have a site up! [christina-varghese.com](url) I still plan to make some changes and fix some things but I am happy it is up. 
 
