@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__07/20/2021__<br>
+Spent time today going through some pre-work for LiftOff before it starts August 2. I brainstormed project ideas. I also did a little HackerRank and Eloquent JavaScript. 
+
 <br>__07/19/2021__<br>
 Took a few days break from coding due to some other obligations. Felt good to announce my portfolio website is up on Twitter and LinkedIn today. Fixed a few things on my resume and website. It's all a work in progress but I am proud of what I've accomplished thus far. I'm practicing leetcode today and preparing to start a personal project. Good times! Today is also the official last day of LC101 even though I finished a couple of weeks ago. I am told I'll have a certificate of completeion some time after today. It's the little things that mean so much.
 
