@@ -3,6 +3,8 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__08/02/2021__<br>
+Took a little break from GitHub the past week or so while. Still practiced coding but not much uploading. I have my first technical interview tomorrow where I'll actually be answering technical questions and doing coding problems. Excited and nervous all at the same time. Today I am preparing for that interview - reviewing material and doing some alogorithm problems. I also start LiftOff tonight 5:30-8:30pm. I am looking forward to meeting my group, peers, TA and teacher. I am also looking forward to getting another project underway. 
 
 <br>__07/28/2021__<br>
 Officially set up for LiftOff on Canvas, Slack and GitHub. Completed the pre-work assigned to be done before our first session on Monday. Learned about wireframes, user stories and set up a Trello board for my project. Some project ideas I have for projects are a blog website, a vitamin cross checker to make sure you aren't getting too much or too little of specific vitamins, an ecommerce site maybe using the dog api to simulate how a shelter could sell the dogs in their care, a hotel and/or flight deals finder. I am also curious about Twilio. I used in to make a weather alert app with the help of an Udemy course, but I'd like to see how else it could be used. So I am thinking I might try to using the Twilio api in my project. It's hard to decide what would be the best project to build first.
