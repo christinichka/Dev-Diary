@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__08/03/2021__<br>
+We have LiftOff! My team is 4 members. We planned our group project. We will be building a Library application where users can register and sign in/out. They can use a menu to sort genres, search for titles, check out a book, etc. We plan to build the project with Java, HTML, CSS, Bootstrap, Thymeleaf, Gradle, MySQL, Twilio API, and an API for book data (possibly Google Books). We have a basic experience with Bootstrap but didn't do a lot with it yet so we will need to learn that better. We also don't know Twilio so we will be figuring that out. I did do a Python tutorial once using Twilio but it was some time ago and this will be a first time figuring out how to use it with Java. Our team also created some user stories on Trello. We also created a wire frame of the landing page. Later this week we will finish wire framing and add to our user stories as needed. I am excited to get started on coding our project! 
+
 <br>__08/02/2021__<br>
 Took a little break from GitHub the past week or so while. Still practiced coding but not much uploading. I have my first technical interview tomorrow where I'll actually be answering technical questions and doing coding problems. Excited and nervous all at the same time. Today I am preparing for that interview - reviewing material and doing some alogorithm problems. I also start LiftOff tonight 5:30-8:30pm. I am looking forward to meeting my group, peers, TA and teacher. I am also looking forward to getting another project underway. 
 
