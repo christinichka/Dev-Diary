@@ -3,6 +3,24 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__08/04/2021__<br> 
+I recently upgraded to a laptop from a older desktop. I thought I had everything migrated over, and then I tried to run my final project from LiftOff. The MySQL tables were nowhere to be found on my laptop. So today was about finding how to get those files onto my laptop from the old computer. So far I've got them imported but they are all inside one schema instead of separately into the schemas for the different projects. I'll have to find out how to organize them back to their proper order. I also did the coding challenge for week 2 of LiftOff. Which was to write function that retrives the minimum and maximums of an array. Here is what I came up with.
+
+``` JavaScript
+
+function minMax(arr) {
+	let min = Math.min.apply(null, arr);
+//console.log(min);
+
+let max = Math.max.apply(null, arr);
+//console.log(max);
+
+return([min, max]);
+}
+
+minMax(arr);
+```
+
 <br>__08/03/2021__<br>
 We have LiftOff! My team is 4 members. We planned our group project. We will be building a Library application where users can register and sign in/out. They can use a menu to sort genres, search for titles, check out a book, etc. We plan to build the project with Java, HTML, CSS, Bootstrap, Thymeleaf, Gradle, MySQL, Twilio API, and an API for book data (possibly Google Books). We have a basic experience with Bootstrap but didn't do a lot with it yet so we will need to learn that better. We also don't know Twilio so we will be figuring that out. I did do a Python tutorial once using Twilio but it was some time ago and this will be a first time figuring out how to use it with Java. Our team also created some user stories on Trello. We also created a wire frame of the landing page. Later this week we will finish wire framing and add to our user stories as needed. I am excited to get started on coding our project! 
 
