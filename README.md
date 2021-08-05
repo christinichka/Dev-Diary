@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__08/05/2021__<br>
+I fixed the MySQL schemas - funny thing how closing out the program and going back in after importing can really make a difference. It's the little things I tell you. I also have been working on my Java based blog project. I am glad I have been working on it because my JAVA_HOME wasn't set up yet after migrating to my laptop from my old desktop. Now it's all set up and ready to compile my Java applications, just in time for my LiftOff group project work to begin (we haven't started coding just yet, but will soon I imagine). My blog project will use Java, Spring boot, Maven, MySQL, hibernate and I am hoping to implement Angular framework with it. I haven't integrated Angular with any Java yet so it'll be a learning experience for sure.
+
 <br>__08/04/2021__<br> 
 I recently upgraded to a laptop from a older desktop. I thought I had everything migrated over, and then I tried to run my final project from LiftOff. The MySQL tables were nowhere to be found on my laptop. So today was about finding how to get those files onto my laptop from the old computer. So far I've got them imported but they are all inside one schema instead of separately into the schemas for the different projects. I'll have to find out how to organize them back to their proper order. I also did the coding challenge for week 2 of LiftOff. Which was to write function that retrives the minimum and maximums of an array. Here is what I came up with.
 
