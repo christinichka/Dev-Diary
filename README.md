@@ -4,6 +4,11 @@
 #### The date format for this log is MM-DD-YYYY
 
 <br>__08/06/2021__<br>
+I met with my project team this morning. We finished wire framing out the pages for our project. We used [Miro](https://miro.com/app/board/o9J_l3L3mmw=/?track=true&utm_source=notification&utm_medium=email&utm_campaign=approve-request&utm_content=go-to-miro) which is a free tool. We also added to our user stories on [Trello](https://trello.com/b/BSdWDdNq/liftoff) and added descriptions to each card. We are all eager to start coding our project. Hopefully we get the go ahead during class on Monday. 
+
+Additionally I am preparing for my interview today - learning about Amazon Web Services (AWS), and brushing up on more Java concepts and algogrithms. 
+
+<br>__08/06/2021__<br>
 I spent today studying for an upcoming Java interview. Practicing explaining OOP, Polymorphism, Inheritance, Abstraction, Encapsulation, etc. I worked a little on my dev blog project as well. 
 
 <br>__08/05/2021__<br>
