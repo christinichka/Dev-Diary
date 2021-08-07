@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__08/06/2021__<br>
+I spent today studying for an upcoming Java interview. Practicing explaining OOP, Polymorphism, Inheritance, Abstraction, Encapsulation, etc. I worked a little on my dev blog project as well. 
+
 <br>__08/05/2021__<br>
 I fixed the MySQL schemas - funny thing how closing out the program and going back in after importing can really make a difference. It's the little things I tell you. I also have been working on my Java based blog project. I am glad I have been working on it because my JAVA_HOME wasn't set up yet after migrating to my laptop from my old desktop. Now it's all set up and ready to compile my Java applications, just in time for my LiftOff group project work to begin (we haven't started coding just yet, but will soon I imagine). My blog project will use Java, Spring boot, Maven, MySQL, hibernate and I am hoping to implement Angular framework with it. I haven't integrated Angular with any Java yet so it'll be a learning experience for sure.
 
