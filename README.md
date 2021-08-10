@@ -3,7 +3,13 @@
 
 #### The date format for this log is MM-DD-YYYY
 
-<br>__08/06/2021__<br>
+<br>__08/09/2021__<br>
+I worked on finding missing numbers in an array and printing them. I also worked on reserving a string. Practicing on HackerRank, CoderBytes, and in Replit. I've been working on assignments for LiftOff in the LiftOff assignment repo including adding my group project wire frames photos to my readme file there. I am beginning to work on user stories and wireframing for my flight deals personal project. It's fun to have a passion project and I'm excited about this one. I also have a leadership meeting today for the Women Who Code St. Louis leadership team. Overall a varied and productive day. 
+
+<br>__08/08/2021__<br>
+I forgot my entry last night - so updating now. Yesterday was class 2/8 of LiftOff. Our group was ahead of the game with WireFrames and User Stories. Our Mentor/TA Abbey talked through the project with us and viewed our wire frames and user stories. She told us we could categorize them by color on Trello. Red for minimum viable product (mvp), Yellow for next level features, and Green for the further reaching features. Basically we needed to widdle the project down a bit to make it attainable. If we reach the Red and have time we will shoot for Yellow and so on. We discussed at a team what should be in what category. We also got our GitHub repo set up with the bones of the project. We had some GitHub hiccups because Maven got checked in Springintilizer instead of Gradle but we battled and won the GitHub revert war. Now the project with Gradle is committed and ready for us to start making feature branches. We will discuss more Saturday morning. I am hoping we can each check out some user stories to work on at that point. I also set up a Google Account for our group to use to access the Google Book API, possibly also a Google Voice number for Twilio implementation.
+
+<br>__08/07/2021__<br>
 I met with my project team this morning. We finished wire framing out the pages for our project. We used [Miro](https://miro.com/app/board/o9J_l3L3mmw=/?track=true&utm_source=notification&utm_medium=email&utm_campaign=approve-request&utm_content=go-to-miro) which is a free tool. We also added to our user stories on [Trello](https://trello.com/b/BSdWDdNq/liftoff) and added descriptions to each card. We are all eager to start coding our project. Hopefully we get the go ahead during class on Monday. 
 
 Additionally I am preparing for my interview today - learning about Amazon Web Services (AWS), and brushing up on more Java concepts and algogrithms. 
