@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__08/12/2021__<br>
+I've missed a few days entries. I have been researching APIs, studying Java and practicing some algorithms. I learned a lot from a recent coding challenge interview so I've been making a game plan to fill in gaps where I was weaker during the interview than I hoped to be and maintain the areas I am strong in. Building projects does help, but practicing explaining things out loud will also benefit me. 
+
 <br>__08/09/2021__<br>
 I worked on finding missing numbers in an array and printing them. I also worked on reserving a string. Practicing on HackerRank, CoderBytes, and in Replit. I've been working on assignments for LiftOff in the LiftOff assignment repo including adding my group project wire frames photos to my readme file there. I am beginning to work on user stories and wireframing for my flight deals personal project. It's fun to have a passion project and I'm excited about this one. I also have a leadership meeting today for the Women Who Code St. Louis leadership team. Overall a varied and productive day. 
 
