@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__08/13/2021__<br>
+I've been chipping away at a developer blog project built with Java. I am going through methodically and trying to understand each step in such a way that I could explain it during an interview. Something new and cool I learned today was that in the application.properties file if you change the spring.jpa.show-sql to equal true then run the application it will show that the tables are created in the database (MySQL) during the run inside of IntelliJ without having to go over to the MySQL workbench or command line. I think that is rather effective and nifty. I previously had always had false there and didn't fully understand what the options were.
+
 <br>__08/12/2021__<br>
 I've missed a few days entries. I have been researching APIs, studying Java and practicing some algorithms. I learned a lot from a recent coding challenge interview so I've been making a game plan to fill in gaps where I was weaker during the interview than I hoped to be and maintain the areas I am strong in. Building projects does help, but practicing explaining things out loud will also benefit me. 
 
