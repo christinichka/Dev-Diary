@@ -1,7 +1,10 @@
 # Dev-Diary
-## This diary contains a daily log of what I have learned while developing programs. 
+## This diary contains a log of what I have learned while developing programs. 
 
 #### The date format for this log is MM-DD-YYYY
+
+<br>__08/16/2021__<br>
+Read the Google Books API starter section and searched around a bit about implementing it. One of my group members was able to pull the search through the API but was only getting 10 results to list, I found that if we use MaxResults we can pull up to 40 book listings at a time (the max Google allows). During our group meeting today we split up some user stories from our Trello board. I will be helping with the Google Book API to figure out the display of each book, also finding out if we can get a shortened description for our search results page, and creating a drop down menu to filter the categories prior to the search for books. These are all part of our MVP (minimum viable project). By next Monday we need to have a working landing page and at least 1 working feature complete.  
 
 <br>__08/13/2021__<br>
 I've been chipping away at a developer blog project built with Java. I am going through methodically and trying to understand each step in such a way that I could explain it during an interview. Something new and cool I learned today was that in the application.properties file if you change the spring.jpa.show-sql to equal true then run the application it will show that the tables are created in the database (MySQL) during the run inside of IntelliJ without having to go over to the MySQL workbench or command line. I think that is rather effective and nifty. I previously had always had false there and didn't fully understand what the options were.
