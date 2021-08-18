@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__8/18/2021__<br>
+Bootstrap dropdown successfully installed on the project site. Took some time to get the dropdown, search text input and search button to do what I wanted it to do. The dropdown wanted to hang out right to all of it, but I was able to create <div class="d-flex align-content-start flex-wrap"> around all of the elements. So now it's looking a whole lot better. I pushed it all to a new branch in our project called dropdown_menu. Tomorrow I will be working on getting the categories to pull based on selection along with the user input. 
+
 <br>__8/17/2021__<br>
 I spent a lot of time reading on the Google API about categories and searching stackoverflow today to get an idea of how to create a Bootstrap drop down menu of the categories of books for our Google Books API powered library project. I found several promising examples of drop downs, and I also found that Google Books API uses BISAC for North American genres which will be a big help in determining category names to try to pull. Tomorrow I will put my research into action and begin to code the drop down. I am looking forward to dipping my hands more into Bootstrap.
 
