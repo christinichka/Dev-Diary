@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__8/17/2021__<br>
+I spent a lot of time reading on the Google API about categories and searching stackoverflow today to get an idea of how to create a Bootstrap drop down menu of the categories of books for our Google Books API powered library project. I found several promising examples of drop downs, and I also found that Google Books API uses BISAC for North American genres which will be a big help in determining category names to try to pull. Tomorrow I will put my research into action and begin to code the drop down. I am looking forward to dipping my hands more into Bootstrap.
+
 <br>__08/16/2021__<br>
 Read the Google Books API starter section and searched around a bit about implementing it. One of my group members was able to pull the search through the API but was only getting 10 results to list, I found that if we use MaxResults we can pull up to 40 book listings at a time (the max Google allows). During our group meeting today we split up some user stories from our Trello board. I will be helping with the Google Book API to figure out the display of each book, also finding out if we can get a shortened description for our search results page, and creating a drop down menu to filter the categories prior to the search for books. These are all part of our MVP (minimum viable project). By next Monday we need to have a working landing page and at least 1 working feature complete.  
 
