@@ -3,6 +3,16 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__8/20/2021__<br>
+Yesterday I forgot to log - but I was doing some research on the drop down selection for the dropdown menu. I also studied whiteboarding, practiced some coding algorithms. Today I tackled changing the selected value from the dropdown to show what category the user selected. I got it to work in a CodePen but now I'm struggling to get it to work over in our actual project. I used a little JQuery which is newer to me. The problem could be I might not have implemented it correctly within our Java program. I'm not quite sure yet. Here's what I wrote, 
+```Jquery
+$(".dropdown-menu li a").click(function(){
+  var selText = $(this).text();
+  $(this).parents('.dropdown').find('.dropdown-toggle').html(selText+' <span class="caret"></span>');
+});
+```
+Basically it is a click event that will update the dropdown text with the value of the category selected by the user. Works perfectly in my CodePen. Not so much in the actual project. But getting somewhere. Next up: get the code to work in the project & write a function to pull the Json category values according to the user selection. 
+
 <br>__8/18/2021__<br>
 Bootstrap dropdown successfully installed on the project site. Took some time to get the dropdown, search text input and search button to do what I wanted it to do. The dropdown wanted to hang out right to all of it, but I was able to create <div class="d-flex align-content-start flex-wrap"> around all of the elements. So now it's looking a whole lot better. I pushed it all to a new branch in our project called dropdown_menu. Tomorrow I will be working on getting the categories to pull based on selection along with the user input. 
 
