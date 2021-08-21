@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__8/21/2021__<br>
+Met with my group this morning. We merged some branches in our GitHub and dealt with some conflicts. We also worked on getting everything including the Bootstrap to work with the Thymeleaf because it was not working previously. The menu dropdown now shows up. I cropped the landing page image to take off words that were in the bottom and set the background size to be 100% of the page so that there wasn't a weird white area at the bottom if the screen was resized. Right now our project landing page shows the dropdown, search and button as well as the header and background image. It also navigates to the search page upon search and pulls books by title. I am working on the functionality of the dropdown menu. And we will be adding a carousel of books onto the landing as well. The duties are split among team members. 
+
 <br>__8/20/2021__<br>
 Yesterday I forgot to log - but I was doing some research on the drop down selection for the dropdown menu. I also studied whiteboarding, practiced some coding algorithms. Today I tackled changing the selected value from the dropdown to show what category the user selected. I got it to work in a CodePen but now I'm struggling to get it to work over in our actual project. I used a little JQuery which is newer to me. The problem could be I might not have implemented it correctly within our Java program. I'm not quite sure yet. Here's what I wrote, 
 ```Jquery
