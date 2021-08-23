@@ -3,6 +3,11 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__8/23/2021__<br>
+I am still working on the dropdown menu. I've hit a roadblock on getting the value of the selected dropdown. There are plenty of Javascript select and option examples, but my dropdown is coded with bootstrap and might need to use Jquery. I have some working code both in Javascript and JQuery. A peer from my group suggested saving the value in local storage and then retrieving it to compare to the value of the looped data. I'll update when I figure this challenge out.  
+
+LiftOff session tonight. Got to meet some engagement specialists with LaunchCode and hear about what they do to help LaunchCoders find apprenticeships. Sounds like there are a lot of opportunities and gets me even more excited about this field. My group will be doing our first project review tonight with our TA and they will give us tips on how to proceed. We will also practice live coding as pairs.
+
 <br>__8/21/2021__<br>
 Met with my group this morning. We merged some branches in our GitHub and dealt with some conflicts. We also worked on getting everything including the Bootstrap to work with the Thymeleaf because it was not working previously. The menu dropdown now shows up. I cropped the landing page image to take off words that were in the bottom and set the background size to be 100% of the page so that there wasn't a weird white area at the bottom if the screen was resized. Right now our project landing page shows the dropdown, search and button as well as the header and background image. It also navigates to the search page upon search and pulls books by title. I am working on the functionality of the dropdown menu. And we will be adding a carousel of books onto the landing as well. The duties are split among team members. 
 
