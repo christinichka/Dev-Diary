@@ -3,6 +3,27 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__8/24/2021__<br>
+Updated the readme and styled with some basic markdown for our group project on the repo. [LiftOff Group Project](https://github.com/AbbeyKNorthcutt/abbey-liftoff-group-a)
+
+Our group is working hard. We are working on the menu dropdown, carousel, cleaning up how things work. We are hoping we will have time to add on some other features past the minimum 3 features. 
+
+Worked on Coding Challenge for Class 5. The instructions were as follows, "Create a function that takes a number as an argument. Add up all the numbers from 1 to the number you passed to the function. For example, if the input is 4 then your function should return 10 because 1 + 2 + 3 + 4 = 10." 
+Here is what I came up with:
+```Javascript
+function addUp(num) {
+	let sumOfNum = 0;
+	for (let i = 0; i <= num; i++) {
+		sumOfNum += i;
+	}
+	return sumOfNum;
+}
+```
+1. Declared a variable called sumOfNum to represent the total sum of all of the numbers from 1 to my given number and set it equal to 0. 
+2. Created a for loop to loop through the numbers, adding them together as they loop through.
+3. Return the final sum of all of the numbers.
+
+
 <br>__8/23/2021__<br>
 I am still working on the dropdown menu. I've hit a roadblock on getting the value of the selected dropdown. There are plenty of Javascript select and option examples, but my dropdown is coded with bootstrap and might need to use Jquery. I have some working code both in Javascript and JQuery. A peer from my group suggested saving the value in local storage and then retrieving it to compare to the value of the looped data. I'll update when I figure this challenge out.  
 
