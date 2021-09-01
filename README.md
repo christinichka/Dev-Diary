@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/01/2021__<br>
+I have been practicing th:each in Thymeleaf today. I love to see how Java works hand in hand with Thymeleaf. I love to see how the model can be set up so that the user can view the data. I also have made some tables with Bootstrap. I am beginning to think Bootstrap <Select> might be an easier route to go than the Bootstrap dropdown with <li> tags for our group project so I've been playing around with both to get a feel for what works better to pull in the categories from Google Book api.  
+
 <br>__08/30/2021__<br>
 I haven't logged for a bit. I have been continually working on the group project. I am still working on the dropdown menu functionality with the API. Google Books api is a little tricky when it comes to pulling the category. Had a meeting with my team on Saturday and they are going to help me move past some blocks. While we work on getting it going, I am going to get started on the user sign in capability in Java. We will be using MySQL as our database to store the users. 
 
