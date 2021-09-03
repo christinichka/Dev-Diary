@@ -3,6 +3,35 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/03/02/2021__<br>
+I have been working on coding algorithms today. Below is one I did on (hackerrank)[https://www.hackerrank.com/challenges/java-if-else/problem] with the following parameters:
+"Given an integer, , perform the following conditional actions:
+
+If  is odd, print Weird
+If  is even and in the inclusive range of  to , print Not Weird
+If  is even and in the inclusive range of  to , print Weird
+If  is even and greater than , print Not Weird
+Complete the stub code provided in your editor to print whether or not  is weird."
+
+```Java
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        Scanner sc=new Scanner(System.in);      
+        int n = sc.nextInt();
+        if ((n%2 == 1) || (n>=6 && n<=20)) {
+            System.out.println("Weird");
+        } else {
+            System.out.println("Not Weird");
+        }
+
+    }
+}
+```
+My approach was to find all of the odd numbers and then see if they also were between the numbers 6 and 20 if so I printed weird. If not, printed not weird This problen reminded me of FizzBuzz.
+
+
 <br>__09/01/2021__<br>
 I have been practicing th:each in Thymeleaf today. I love to see how Java works hand in hand with Thymeleaf. I love to see how the model can be set up so that the user can view the data. I also have made some tables with Bootstrap. I am beginning to think Bootstrap Select might be an easier route to go than the Bootstrap dropdown with li tags for our group project so I've been playing around with both to get a feel for what works better to pull in the categories from Google Book api.  
 
