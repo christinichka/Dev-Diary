@@ -4,7 +4,7 @@
 #### The date format for this log is MM-DD-YYYY
 
 <br>__09/03/02/2021__<br>
-I have been working on coding algorithms today. Below is one I did on (hackerrank)[https://www.hackerrank.com/challenges/java-if-else/problem] with the following parameters:
+I have been working on coding algorithms today. Below is one I did on [hackerrank](https://www.hackerrank.com/challenges/java-if-else/problem) with the following parameters:
 "Given an integer, , perform the following conditional actions:
 
 If  is odd, print Weird
