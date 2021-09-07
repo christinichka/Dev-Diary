@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/07/2021__<br>
+Today I learned about printf in Java. I had not heard of it previously and had been taught to use print or println. Basically printf gives a formatting string before what to print out. [Here is a good overview video about printf](https://www.youtube.com/watch?v=moQ3Kr8ouiU) I like this concept because it allows me to format say an addition problem to be printed as I want, or a number to include the decimals or not with just a % and a letter.
+
 <br>__09/03/02/2021__<br>
 I have been working on coding algorithms today. Below is one I did on [hackerrank](https://www.hackerrank.com/challenges/java-if-else/problem) with the following parameters:
 "Given an integer, , perform the following conditional actions:
