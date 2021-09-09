@@ -3,6 +3,12 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/09/2021__<br>
+This morning I saw my teammate cracked the code for the dropdown by switching to a select tag and instead of categories we are going to select author and title because the API was not created well for retrieving categories and gave us all kinds of headaches. It's nice to be able to be flexible but still be able to filter by title or author and then by the user text input. Sadly the JQuery code I worked hard on didn't get used. But that's part of working in a team. I learned a lot and don't regret the time I spent on figuring out the workings of JQuery. I'm looking forward to using it more in the future. I was able to work on some styling this morning and get the select to be the same height as the input and search button. It did not want to change no matter what I did to the css. I ended up finding an answer on StackOverflow that helped me to add some code into the select tag directly. ```HTML class="form-control" style=" height:35px;" id="sel1" ``` did the trick. Happy it finally looks like it is coming together. 
+
+<br>__09/08/2021__<br>
+Spent some time on hackerrank again. Worked on my dev blog. Still working on the user authentication but almost there. Spring security is new to me so I spent some time working through a tutorial. 
+
 <br>__09/07/2021__<br>
 Today I learned about printf in Java. I had not heard of it previously and had been taught to use print or println. Basically printf gives a formatting string before what to print out. [Here is a good overview video about printf](https://www.youtube.com/watch?v=moQ3Kr8ouiU) I like this concept because it allows me to format say an addition problem to be printed as I want, or a number to include the decimals or not with just a % and a letter.
 
