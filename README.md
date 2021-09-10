@@ -3,6 +3,58 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/10/2021__<br>
+I have had the pleasure to help some peers prepare for their technical interviews by sitting in on coding challenges. Coding challenges are nerve wracking! I have been practicing as well because even though I've accepted a position with Accenture Federal Services (YAY!!!) I chose to finish my LiftOff program which requires me doing a graded live coding challenge with the LaunchCode staff. It's nice to practice with others because it shows that we all have our strengths and weaknesses. We also all struggle with anxiety surrounding coding challenges. Something I have learned is that being a software engineer means getting comfortable with being uncomfortable. Technology is always changing and adpating can be uncomfortable at times, but when you start to see change as an opportunity rather than a threat you blossom. Here is a coding challenge I did this morning (solo):
+
+Calculate Average Time
+<br>In this problem you are given the speed a train is travelling (x), and you are given the distance the train is travelling (y), you need to calculate how long it will take for the train to arrive at it's destination.
+
+You will need to calculate the time for three trains, and then you will need to calculate the average time of the three trains journeys'.
+
+Example:
+Train One: x = 20, y = 150
+
+time = 7.5
+
+Train Two: x = 25, y = 155
+
+time = 6.2
+
+Train Three: x = 32, y = 162
+
+time = 5.0625
+
+Average for all three trains: average time = 6.25416
+
+``` Java
+class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+
+    // create three train arrays that will hold the value for their speed x and distance y
+    double trainOne = lengthOfTime(20, 150);
+    double trainTwo = lengthOfTime(25, 155);
+    double trainThree = lengthOfTime(32, 162);
+
+    System.out.println("Train One: " + trainOne);
+    System.out.println("Train Two: " + trainTwo);
+    System.out.println("Train Three: " + trainThree);
+
+    // function to calculate the average of the three trains journeys
+    double averageTime = (trainOne + trainTwo + trainThree)/3;
+
+    System.out.println("Average time: " + averageTime);
+
+  }
+
+  // function to calculate the time for any given train based on their distance
+  public static Double lengthOfTime(int x, int y) {
+    Double time = (double)y / (double)x;
+    return time;
+  }
+}
+```
+
 <br>__09/09/2021__<br>
 This morning I saw my teammate cracked the code for the dropdown by switching to a select tag and instead of categories we are going to select author and title because the API was not created well for retrieving categories and gave us all kinds of headaches. It's nice to be able to be flexible but still be able to filter by title or author and then by the user text input. Sadly the JQuery code I worked hard on didn't get used. But that's part of working in a team. I learned a lot and don't regret the time I spent on figuring out the workings of JQuery. I'm looking forward to using it more in the future. I was able to work on some styling this morning and get the select to be the same height as the input and search button. It did not want to change no matter what I did to the css. I ended up finding an answer on StackOverflow that helped me to add some code into the select tag directly. ```HTML class="form-control" style=" height:35px;" id="sel1" ``` did the trick. Happy it finally looks like it is coming together. 
 
