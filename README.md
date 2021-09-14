@@ -3,6 +3,12 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/14/2021__<br>
+AFS is giving me the opportunity to become Java certified prior to my start date (October 18). I scheduled my Java SE 8 Programmer I exam #1Z0-808 today and I will be sitting for it on October 14. I have one month to prepare. I will studying using video, study guide texts as well as practice tests. I am a little intimidated, but mostly curious about the exam material and feeling up for the challenge. Today I have been going through the videos AFS provided me in the study materials. I am crafting a study plan as well. 
+
+<br>__09/13/2021__<br>
+My team met during class yesterday and we worked on figuring out what branches needed to be merged into our master branch. It was a bit of work. We also worked on getting our button to fire on enter press since right now it just works when clicked. It was a good coding session. We have two weeks left on our project. 
+
 <br>__09/10/2021__<br>
 I have had the pleasure to help some peers prepare for their technical interviews by sitting in on coding challenges. Coding challenges are nerve wracking! I have been practicing as well because even though I've accepted a position with Accenture Federal Services (YAY!!!) I chose to finish my LiftOff program which requires me doing a graded live coding challenge with the LaunchCode staff. It's nice to practice with others because it shows that we all have our strengths and weaknesses. We also all struggle with anxiety surrounding coding challenges. Something I have learned is that being a software engineer means getting comfortable with being uncomfortable. Technology is always changing and adpating can be uncomfortable at times, but when you start to see change as an opportunity rather than a threat you blossom. Here is a coding challenge I did this morning (solo):
 
