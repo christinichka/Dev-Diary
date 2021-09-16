@@ -3,6 +3,17 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/16/2021__<br>
+Today I figured out how to get my group project search to submit when the enter key is pressed and not just have to rely on the button. This is what was the outcome. After trying all kinds of JavaScript to help listen to the event - all I really needed was a <form> tag with method and action placed inside to wrap around the entire search area. It's the little things you get hung up on as a software engineer. 
+
+```HTML
+	<form name="searchBarWithButton" method="post" action="/search">
+```
+My LC101 study group has been studying different Java topics to enhance our knowledge for interviews and for on the job. I taught about REST and OOP. Another peer taught about Interitance, Abstraction, Spring Boot and a few other things. Good times. It helps to talk with others and think through about these concepts.
+
+<br>__09/15/2021__<br>
+Spent time studying for the Java exam. Also studied up on REST and the benefits and pillars of OOP to teach my study group.
+
 <br>__09/14/2021__<br>
 AFS is giving me the opportunity to become Java certified prior to my start date (October 18). I scheduled my Java SE 8 Programmer I exam #1Z0-808 today and I will be sitting for it on October 14. I have one month to prepare. I will studying using video, study guide texts as well as practice tests. I am a little intimidated, but mostly curious about the exam material and feeling up for the challenge. Today I have been going through the videos AFS provided me in the study materials. I am crafting a study plan as well. 
 
