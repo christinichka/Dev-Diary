@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/20/2021__<br>
+One more class to go for LiftOff. My group has completed the mvp and are cleaning up the project to look that way we would like it to. I plan to practice deploying it once it is complete and I have a copy saved on my own GitHub repositories (it's housed on the TA's GitHub for now). The Java exam studying has taken over and I am spending a lot of time reading and practicing concepts from the exam. 
+
 <br>__09/16/2021__<br>
 Today I figured out how to get my group project search to submit when the enter key is pressed and not just have to rely on the button. This is what was the outcome. After trying all kinds of JavaScript to help listen to the event - all I really needed was a <form> tag with method and action placed inside to wrap around the entire search area. It's the little things you get hung up on as a software engineer. 
 
