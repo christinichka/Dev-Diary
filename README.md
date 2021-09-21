@@ -3,6 +3,11 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/21/2021__<br> 
+I learned something new today. I didn't realize if I forked my group project to my GitHub repo that it would give me an option to catch up to the most updated commits from the repo I forked. Pretty snazzy tip a group member gave me.
+
+Met with my study group today and discussed polymorphism, interface, hibernate, and responsive web design. I taught them about responsive web design and interface. In short responsive web design means to write code one time to look amazing everywhere - in other words we're talking about scalability to all screen sizes and shapes. Bootstrap helps a lot with that. For interface it is an all abstract class. Each class can only inherit one class, however they can implement the behavior of many classes. An example I found in a book was a robot dog would be a part of the robot class, but could implement methods from the pet class to help it behave like a real dog.
+
 <br>__09/20/2021__<br>
 One more class to go for LiftOff. My group has completed the mvp and are cleaning up the project to look that way we would like it to. I plan to practice deploying it once it is complete and I have a copy saved on my own GitHub repositories (it's housed on the TA's GitHub for now). The Java exam studying has taken over and I am spending a lot of time reading and practicing concepts from the exam. 
 
