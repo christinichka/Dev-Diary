@@ -3,6 +3,11 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/22/2021__<br>
+Today I worked on fixing the design of my group's project, adding in background to make text readable and trying to figure out why the drop drown must be clicked twice to make it drop down. I tried many different things but so far haven't been able to fix the issue. My peers are also trying to uncover the reason. 
+
+I made a quizlet today to study Java terms and also practiced some exam prep questions. I am nervous because some of these questions are tricky. But little by little I'm feeling more comfortable with the type of questions being asked.
+
 <br>__09/21/2021__<br> 
 I learned something new today. I didn't realize if I forked my group project to my GitHub repo that it would give me an option to catch up to the most updated commits from the repo I forked. Pretty snazzy tip a group member gave me.
 
