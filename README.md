@@ -3,6 +3,18 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/24/2021__<br> 
+Drop down clicking problem fixed! I discovered that I needed to add 
+```HTML
+onclick="displayDropdownSelection()"
+``` 
+to the button tag and not just to the li tags with the drop down options. Now the drop down toggles when clicked on the first click as would be expected.
+
+
+
+<br>__09/23/2021__<br>
+Looked a little more into solving the drop down issue. No dice. I tried moving around scripts, adding or removing different scripts, changing our jquery function, etc. Nothing. Funny thing that this Bootstrap drop down was the unsuspecting nuisannce in this project.
+
 <br>__09/22/2021__<br>
 Today I worked on fixing the design of my group's project, adding in background to make text readable and trying to figure out why the drop drown must be clicked twice to make it drop down. I tried many different things but so far haven't been able to fix the issue. My peers are also trying to uncover the reason. 
 
