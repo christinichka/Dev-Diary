@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/25/2021__<br>
+We have a bug on our group project where the button on top of our carousel to take us to see the specific book was only clickable on the outer edges. I was able to fix this issue by adding style="z-index:999;" to the div with class="carousel-inner" and now the entire button area activates. This was our last Saturday meeting as a group. We present the project on Monday evening at our final LiftOff class session.
+
 <br>__09/24/2021__<br> 
 Drop down clicking problem fixed! I discovered that I needed to add 
 ```HTML
