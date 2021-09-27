@@ -3,7 +3,7 @@
 
 #### The date format for this log is MM-DD-YYYY
 
-<br>__09/26/2021__<br>
+<br>__09/27/2021__<br>
 I have been dealing with an annoying issue since beginning my studies with Java 8. For my bootcamp we used Java 11 and my computer doesn't like to let me easily choose between the two Java versions. Boo. Well I finally found a solution that I think will work for me - at least in IntelliJ. The winning video comes from YouTube Channel Arjun Codes [check it out](https://www.youtube.com/watch?v=A5FHcR3cE-w). 
 In summary:
 1. Get the path to the bin file for the version of Java you'd like to switch to. In my case, I have Java 11 set as my default and I want to be able to use Java 8 as well so my bin is C:\Program Files\Java\jdk1.8.0_301\bin.
