@@ -3,6 +3,14 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/26/2021__<br>
+I have been dealing with an annoying issue since beginning my studies with Java 8. For my bootcamp we used Java 11 and my computer doesn't like to let me easily choose between the two Java versions. Boo. Well I finally found a solution that I think will work for me - at least in IntelliJ. The winning video comes from YouTube Channel Arjun Codes [check it out](https://www.youtube.com/watch?v=A5FHcR3cE-w). 
+In summary:
+1. Get the path to the bin file for the version of Java you'd like to switch to. In my case, I have Java 11 set as my default and I want to be able to use Java 8 as well so my bin is C:\Program Files\Java\jdk1.8.0_301\bin.
+2. Open System Properties and then click on Environmental Variables.
+3. In the bottom section titled System variables double click on "Path" once the window opens click on "New" which is located on the right hand side of the window. Paste in the bin path.
+4. Now create a new project in IntelliJ and you will see at the top there is a drop down after Project SDK: in the drop down you should now see the default version as well as the one you added to the path of your System variables.
+
 <br>__09/25/2021__<br>
 We have a bug on our group project where the button on top of our carousel to take us to see the specific book was only clickable on the outer edges. I was able to fix this issue by adding style="z-index:999;" to the div with class="carousel-inner" and now the entire button area activates. This was our last Saturday meeting as a group. We present the project on Monday evening at our final LiftOff class session.
 
@@ -12,8 +20,6 @@ Drop down clicking problem fixed! I discovered that I needed to add
 onclick="displayDropdownSelection()"
 ``` 
 to the button tag and not just to the li tags with the drop down options. Now the drop down toggles when clicked on the first click as would be expected.
-
-
 
 <br>__09/23/2021__<br>
 Looked a little more into solving the drop down issue. No dice. I tried moving around scripts, adding or removing different scripts, changing our jquery function, etc. Nothing. Funny thing that this Bootstrap drop down was the unsuspecting nuisannce in this project.
