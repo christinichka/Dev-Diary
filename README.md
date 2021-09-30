@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__09/30/2021__<br>
+This week I've been doing a lot of practice questions for my exam. I am going to take a full practice test tomorrow. Two weeks from today I'll be sitting for the the OCA exam. I hope that I have what it takes. I am getting nervous. 
+
 <br>__09/27/2021__<br>
 I have been dealing with an annoying issue since beginning my studies with Java 8. For my bootcamp we used Java 11 and my computer doesn't like to let me easily choose between the two Java versions. Boo. Well I finally found a solution that I think will work for me - at least in IntelliJ. The winning video comes from YouTube Channel Arjun Codes [check it out](https://www.youtube.com/watch?v=A5FHcR3cE-w). 
 In summary:
