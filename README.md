@@ -3,6 +3,9 @@
 
 #### The date format for this log is MM-DD-YYYY
 
+<br>__10/4/2021__<br>
+I took the practice exam on 10/1/2021. I realized I know the basics really well. I got above average. However on exception handling I did poorly. My bootcamp taught a very low level of exception handling and I didn't even know what some of the error names were or what they meant. I also had not ever done switch cases though I had seen some others using them on Hackerrank. I also had very little experience with try, catch. So I've been studying these things and more. Still filling in the gaps. It was good to get the first full practice test underway so I could see where some holes were. I plan to take another in a day or two and see how things are shaping up. Just 10 days until I sit for the exam.
+
 <br>__09/30/2021__<br>
 This week I've been doing a lot of practice questions for my exam. I am going to take a full practice test tomorrow. Two weeks from today I'll be sitting for the the OCA exam. I hope that I have what it takes. I am getting nervous. 
 
